@@ -13,3 +13,8 @@ Coming soon:
 
 Planned eventually:
 - SFTP support
+
+
+For more information check out bitrat.org 
+
+- Karl Olav
